@@ -1,1 +1,8 @@
-
+<resources>
+    <string-array name="icon_pack">
+        <item>icon_telegram</item>
+        <item>icon_whatsapp</item>
+        <item>icon_youtube</item>
+        <item>icon_chatgpt</item>
+    </string-array>
+</resources>
