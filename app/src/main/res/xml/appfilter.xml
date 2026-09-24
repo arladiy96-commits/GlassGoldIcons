@@ -1,1 +1,7 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="icon_telegram"/>
+    <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="icon_whatsapp"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomeActivity}" drawable="icon_youtube"/>
+    <item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="icon_chatgpt"/>
+</resources>

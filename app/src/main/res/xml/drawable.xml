@@ -1,1 +1,7 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item drawable="icon_telegram"/>
+    <item drawable="icon_whatsapp"/>
+    <item drawable="icon_youtube"/>
+    <item drawable="icon_chatgpt"/>
+</resources>
